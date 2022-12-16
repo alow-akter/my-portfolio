@@ -6,7 +6,7 @@ const MyProject = () => {
         <div className='mt-10 m-2' >
             <h2 className='text-purple-500 text-6xl font-bold text-center'>MY PROJECT</h2>
             <hr className='w-1/2 mx-auto mt-5' />
-            <div className=' mt-10 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 sm:w-full w-full mx-auto lg:ml-6 gap-4 ' >
+            <div className=' mt-10 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 sm:w-full w-full mx-auto lg:ml-8 gap-4 ' >
 
                 <article class="overflow-hidden rounded-lg border border-gray-100 shadow-lg shadow-slate-700 w-[400px] h-[600px] ">
                     <img

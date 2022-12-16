@@ -9,7 +9,7 @@ const Navber = () => {
         <li className='font-bold text-purple-700 hover:text-'><Link to='/'>Home</Link></li>
         <li className='font-bold text-purple-700'><Link to='/aboutMe'>About me</Link></li>
         <li className='font-bold text-purple-700'><Link to='/contact'>Contact</Link></li>
-        <li className='font-bold text-purple-700 mr-20'><Link to='/MyProject'>MyProject</Link></li>
+        <li className='font-bold text-purple-700 sm:mr-0 lg:mr-20'><Link to='/MyProject'>MyProject</Link></li>
 
 
     </React.Fragment>

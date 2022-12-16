@@ -5,12 +5,12 @@ const Banner = () => {
     return (
         <div>
             <div>
-                <section className="relative bg-purple-400 mt-4">
+                <section className="relative bg-purple-400 mt-8">
                     <div className="container flex flex-col justify-center p-6 mx-auto sm:py-12 lg:py-24 lg:flex-row lg:justify-between">
                         <div className="flex flex-col justify-center p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
-                            <span className="text-violet-700 font-bold text-3xl ">Hello</span><p className='text-2xl'>This is</p>
+                            <span className="text-violet-700 font-bold text-3xl ">Hello</span><p className='text-2xl font-medium'>This is</p>
                             <h1 className="text-5xl lg:ml-6 font-bold leading-none sm:text-6xl text-purple-700 ">Alow
-                                <span className="dark:text-violet-400 m-3 text-black">Akter</span>
+                                <span className=" m-3 text-black">Akter</span>
                             </h1>
 
                             <p className="mt-6 mb-8 text-lg sm:mb-12">
